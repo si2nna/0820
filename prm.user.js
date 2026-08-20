@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  커스텀 프롬프트 프리셋 지원
-// @author       You
+// @author       호씨나
 // @match        *://*/*
 // @grant        GM_xmlhttpRequest
 // @connect      generativelanguage.googleapis.com
